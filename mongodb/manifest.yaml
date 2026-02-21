@@ -45,4 +45,8 @@ spec:
   ports:
   - protocol: TCP
     port: 27017 # service port
+<<<<<<< HEAD
     targetPort: 27017 # container port
+=======
+    targetPort: 27017 # container port
+>>>>>>> 4a9db4f (weA)
